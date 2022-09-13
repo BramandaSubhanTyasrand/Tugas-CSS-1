@@ -1,0 +1,31 @@
+#header h1{
+    color: red;
+}
+#content h2{
+    color: red;
+    background-color: pink;
+}
+#listsidebar h2{
+    color: red;
+    background-color: pink;
+}
+#listsidebar h1{
+    color: red;
+    background-color: pink;
+}
+.sidebar p{
+    color: green;
+    background-color: yellow;
+}
+#content p{
+    color: green;
+    background-color: yellow;
+}
+.isi img{
+    border: 10px groove rgb(66, 66, 66);
+    width: 100px;
+    height: 100px;
+}
+#footer p{
+    color: rgb(179, 0, 179);
+}
